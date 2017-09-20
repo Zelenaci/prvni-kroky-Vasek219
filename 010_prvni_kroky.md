@@ -15,7 +15,7 @@ Online zdroje
      - [... PDF a další formáty](https://knihy.nic.cz/#Python3)
 
  * Návody vytvořené u nás ve škole:
-    - [grafické uživatelské rozhranní s PyQt4](http://spseol.github.io/PyQt4Doc/)
+    - [Grafické uživatelské rozhranní s PyQt4](http://spseol.github.io/PyQt4Doc/)
     - [Flask a Jinja2](http://spseol.github.io/CzechFlaskDoc/)
     - [Český manuál k MatPlotLib](http://mamut.spseol.cz/matplotlib/)
 
@@ -41,7 +41,7 @@ nainstalovat do *Program Files\Python36*
 ![](img/3.png)
 
 Uživatelé OS **Linux** už mají nejspíš Python3 nainstalovaný. Pokud ne, stačí 
-spustit něco jako 
+spustit v příkazovém řádku command 
 
     apt install pytho3 idle3 python3-tk python3-venv python3-pip 
 
@@ -155,12 +155,12 @@ Notebook
 
 Rád bych zde upozornil ještě na jeden velice užitečný nástroj. Tím je [Jupyter
 notebook][Jupyter]. Umožňuje totiž velice efektivně propojit psaní textu,
-poznámek a vkládání obrázků se zpravováním dat a  programováním v Pythonu.
+poznámek a vkládání obrázků se zpravováním dat a programováním v Pythonu.
 
 Potom to může vypadat třeba takto:
-  * [jedna](https://github.com/tlapicka/IPythonNotebooks/blob/master/Matplotlib--zakladni_myslenky_postupy.ipynb)
-  * [dva](https://github.com/tlapicka/IPythonNotebooks/blob/master/Harmonicka_analyza--lichobeznik.ipynb)
-  * [tři](https://github.com/tlapicka/IPythonNotebooks/blob/master/Aliasing.ipynb)
+  * [Matplotlib](https://github.com/tlapicka/IPythonNotebooks/blob/master/Matplotlib--zakladni_myslenky_postupy.ipynb)
+  * [Harmonická analýza-lichoběžník](https://github.com/tlapicka/IPythonNotebooks/blob/master/Harmonicka_analyza--lichobeznik.ipynb)
+  * [Aliasing](https://github.com/tlapicka/IPythonNotebooks/blob/master/Aliasing.ipynb)
 
 
 Git a GitHub
@@ -188,17 +188,17 @@ Stojí také za to podívat se na <https://pages.github.com/>.
 Naučte se základy systému Git
 --------------------------------
 
-Projděte se [rychlokurs](http://naucse.python.cz/lessons/git/basics/) a můžete
+Projděte si [rychlokurz](http://naucse.python.cz/lessons/git/basics/) a můžete
 začít git používat.
 
-Existuje volně šiřitelná kniha [Pro Git][] ve které najdete vše potřebné v
+Existuje volně šiřitelná kniha [Pro Git] ve které najdete vše potřebné v
 češtině. Lze číst i na webu: 
-  * [první vydání](https://git-scm.com/book/cs/v1) -- celé v češtině
-  * [druhé vydání](https://git-scm.com/book/cs/v2) -- není přeloženo celé;
+  * [První vydání](https://git-scm.com/book/cs/v1) -- celé v češtině
+  * [Druhé vydání](https://git-scm.com/book/cs/v2) -- není přeloženo celé;
     můžete se tedy [zapojit do překladu](https://github.com/pepr/progit2-cs).
 
 Pro efektivní používaní tohoto skvělého nástroje vám stačí přečíst si **první tři
-kapitoly**. Nenechte se tedy odradit, stojí to jistě za too.
+kapitoly**. Nenechte se tedy odradit, stojí to jistě za to.
 
 
 [Pro Git]: https://knihy.nic.cz/#ProGit
