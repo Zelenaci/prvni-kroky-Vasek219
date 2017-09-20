@@ -99,7 +99,7 @@ v adresáři *Program Files\Python 3.6\scripts*. Například
 [Spyder]: https://pythonhosted.org/spyder/
 
 V Linuxu by tento postup měl fungovat také, ale obecně není příliš dobré
-přimíchat v ekosystému knihoven obsažených ve vaší distribuci knihovny přímo
+přimíchat v ekosystému knihoven obsažených ve vaší distribuci s knihovnami přímo
 staženými z up-streamu. Proto buď knihovny instalujte jen pro daného uživatele
 použitím parametru `--user`
 
@@ -191,7 +191,7 @@ Naučte se základy systému Git
 Projděte si [rychlokurz](http://naucse.python.cz/lessons/git/basics/) a můžete
 začít git používat.
 
-Existuje volně šiřitelná kniha [Pro Git] ve které najdete vše potřebné v
+Existuje volně šiřitelná kniha [Pro Git][] ve které najdete vše potřebné v
 češtině. Lze číst i na webu: 
   * [První vydání](https://git-scm.com/book/cs/v1) -- celé v češtině
   * [Druhé vydání](https://git-scm.com/book/cs/v2) -- není přeloženo celé;
